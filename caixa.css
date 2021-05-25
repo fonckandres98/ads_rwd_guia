@@ -1,0 +1,17 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif ; font-size: 26px; text-align: center;background: violet;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;font-size: 16px;text-align: left;color: rgb(255, 166, 0);
+}
+p{font-family: Arial, Helvetica, sans-serif;font-size: 14px;text-align: justify;color: black;padding: 50px;}
+
+body{ width: 550px;
+    height: 70px;
+    padding-top: 0px;
+    padding-left: 0px;
+    border: 0px;
+    position: relative;
+   background: #663a57
+   ;
+}
